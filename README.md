@@ -1,4 +1,5 @@
 # 目录
+
 <p align="left">
   <a href="https://github.com/yisainan/web-interview/issues?q=is%3Aopen+is%3Aissue+label%3AHTML"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=html" alt="html"></a>
   <a href="https://github.com/yisainan/web-interview/issues?q=is%3Aopen+is%3Aissue+label%3ACSS"><img src="https://img.shields.io/github/languages/top/badges/shields.svg?label=css" alt="css"></a>
@@ -41,27 +42,33 @@
 
 </details>
 
-<b><details><summary>🐰 Vue</summary></b>
+<b><details><summary>🐰 Vue + React</summary></b>
 
-- [详情](./content/vue/vue.md)
-
-</details>
-
-<b><details><summary>🐉 React</summary></b>
-
-- [详情](./content/React.md)
+- [Vue](./content/vue/vue.md)
+- [React](./content/React.md)
 
 </details>
 
-<b><details><summary>🐍 Angular</summary></b>
+<b><details><summary>🐉 Angular</summary></b>
 
 - [详情](./content/Angular.md)
+
+</details>
+
+<b><details><summary>🐍 微信小程序</summary></b>
+
+- [详情](./content/微信小程序.md)
 
 </details>
 
 <b><details><summary>🐎 选择题</summary></b>
 
 - [详情](./content/选择题/js.md)
+
+- JavaScript专项练习
+  - [练习1](./content/选择题/JavaScript专项练习/1/js.md)
+  - [练习2](./content/选择题/JavaScript专项练习/2/js.md)
+  - [练习3](./content/选择题/JavaScript专项练习/3/js.md)
 
 </details>
 
@@ -161,7 +168,7 @@
 
 ![二维码](./images/qrcode_001.jpg)
 
-# 我的推荐（与本项目无关）
+<!-- # 我的推荐（与本项目无关）
 
 1、[各平台付费知识](https://github.com/small-sweet/VIP-knowledge)
-<!-- 2、[WEB前端资源项目整合](./content/资源/前端.md) -->
+2、[WEB前端资源项目整合](./content/资源/前端.md) -->
